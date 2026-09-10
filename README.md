@@ -1,0 +1,1 @@
+Golden Rise Elevator LLC static website. The logo is extracted directly from the supplied reference image and used in the header and footer.
